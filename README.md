@@ -1,2 +1,3 @@
-# fastapi_random
-FastAPI 숙제
+# FastAPI
+
+1. 회원가입 페이지 만들어보기. (25.02.02 ~ )
